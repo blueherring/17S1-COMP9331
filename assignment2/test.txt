@@ -1,0 +1,20 @@
+python3 DvrExt.py A 2000 configA.txt
+python3 DvrExt.py B 2001 configB.txt
+python3 DvrExt.py C 2002 configC.txt
+python3 DvrExt.py D 2003 configD.txt
+python3 DvrExt.py E 2004 configE.txt
+python3 DvrExt.py F 2005 configF.txt
+
+python3 DvrExt.py A 2000 configA1.txt -p
+python3 DvrExt.py B 2001 configB1.txt -p
+python3 DvrExt.py C 2002 configC1.txt -p
+python3 DvrExt.py D 2003 configD1.txt -p
+python3 DvrExt.py E 2004 configE1.txt -p
+python3 DvrExt.py F 2005 configF1.txt -p
+
+python3 DvrExt.py A 2000 configA2.txt -p -e
+python3 DvrExt.py B 2001 configB2.txt -p -e
+python3 DvrExt.py C 2002 configC2.txt -p -e
+python3 DvrExt.py D 2003 configD2.txt -p -e
+python3 DvrExt.py E 2004 configE2.txt -p -e
+python3 DvrExt.py F 2005 configF2.txt -p -e
